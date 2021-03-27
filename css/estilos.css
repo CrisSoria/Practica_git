@@ -8,10 +8,22 @@ body {
 }
 .container {
   width: 70%;
-  padding: 1em;
+  padding: 0;
   text-align: left;
   border: 1px solid #000;
   margin: 0 auto;
+}
+.cabecera {
+  background: #33a;
+  color: #fff;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
+.tabline {
+  padding: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
 }
 .titulo {
   font-size: 20px;
